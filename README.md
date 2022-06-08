@@ -4,7 +4,16 @@
 
 该源码修改自https://github.com/bells/elasticsearch-analysis-dynamic-synonym
 文档请阅读上述地址
-适合es6.5.0版
+适合es6.5.0版本以上
+
+如何安装?
+
+`elasticsearch-plugin install `
+
+
+如何自定义版本编译？
+
+` ./set-version.sh 6.5.4 `
 
 
 优化问题
