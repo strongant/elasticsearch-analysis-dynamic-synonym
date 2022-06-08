@@ -8,7 +8,7 @@
 
 如何安装?
 
-`elasticsearch-plugin install `
+`elasticsearch-plugin install https://github.com/strongant/elasticsearch-analysis-dynamic-synonym/releases/download/6.5.4/elasticsearch-analysis-dynamic-synonym-6.5.4.zip`
 
 
 如何自定义版本编译？
